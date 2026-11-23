@@ -1,0 +1,22 @@
+# 厂商二进制/固件（不分发）
+*.zip
+*.rar
+*.7z
+*.exe
+*.dll
+*.sys
+*.cat
+*.inf
+*.dat
+*.pdf
+
+# 分析产物
+__pycache__/
+*.pyc
+manual_img/
+*.html
+*.bak
+*.orig
+
+# 备份
+backup/
